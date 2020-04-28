@@ -8,6 +8,7 @@
     <e p="C:\Users\Filip\Documents\GitHubPersonal\Solaris.Web.Api\Solaris.Web.Api" t="IncludeFlat">
       <e p="packages" t="ExcludeRecursive" />
       <e p="Solaris.Web.Api" t="IncludeRecursive">
+        <e p=".gitignore" t="Include" />
         <e p="appsettings.json" t="Include" />
         <e p="bin" t="ExcludeRecursive" />
         <e p="Controllers" t="Include" />
