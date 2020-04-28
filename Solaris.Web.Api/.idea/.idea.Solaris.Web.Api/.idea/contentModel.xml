@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Filip\.Rider2019.3\config\consoles\db" t="IncludeRecursive" />
+    <e p="C:\Users\Filip\.Rider2019.3\config\extensions" t="IncludeRecursive" />
+    <e p="C:\Users\Filip\.Rider2019.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Filip\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_Solaris.Web.Api.1758964483.00" t="ExcludeRecursive" />
+    <e p="C:\Users\Filip\Documents\GitHubPersonal\Solaris.Web.Api\Solaris.Web.Api" t="IncludeFlat">
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Solaris.Web.Api" t="IncludeRecursive">
+        <e p="appsettings.json" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Controllers" t="Include" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="Solaris.Web.Api.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="launchSettings.json" t="Include" />
+        </e>
+        <e p="Solaris.Web.Api.csproj" t="IncludeRecursive" />
+        <e p="Startup.cs" t="Include" />
+      </e>
+      <e p="Solaris.Web.Api.sln" t="IncludeFlat" />
+    </e>
+  </component>
+</project>
